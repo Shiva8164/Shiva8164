@@ -1,4 +1,4 @@
-[![MasterHead](https://www.hdfstutorial.com/wp-content/uploads/2019/09/Ai-Neural-Network.gif)]
+![MasterHead](https://www.hdfstutorial.com/wp-content/uploads/2019/09/Ai-Neural-Network.gif)
 <h1 align="center">Hi 👋, I'm Shivang Bhargav</h1>
 <h3 align="center">A passionate Machine learning/Deep learning engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://si.wsj.net/public/resources/images/OG-BI394_201805_GR_20180503153928.gif">
